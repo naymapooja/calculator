@@ -1,6 +1,6 @@
 // script new file
 function clearDisplay() {
-    document.getElementById('display').value = '';
+    ocument.getElementById('display').value = ''
 }
 
 //hello
