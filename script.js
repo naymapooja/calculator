@@ -1,4 +1,4 @@
-// script.js
+// script new file
 function clearDisplay() {
     document.getElementById('display').value = '';
 }
